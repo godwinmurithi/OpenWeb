@@ -1,0 +1,7 @@
+Welcome to OpenWeb,
+This repo and project is created by Godwin,
+but there are several other collaborators.
+We are working on making it opensource in the near future.
+
+Best,
+Godwin
